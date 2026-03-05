@@ -1,6 +1,7 @@
 body{
     display: flex;
     align-items: flex-start;
+    justify-content: center;
 }
 
 .blue{
@@ -12,6 +13,14 @@ body{
     background-color: rgb(255, 227, 72);
     padding: 20px;
     margin: 10px;
+}
+
+.red{
+    padding-right: 80px;
+}
+
+.green{
+    padding-bottom: 80px;
 }
 
 .flex{
